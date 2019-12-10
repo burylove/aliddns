@@ -1,0 +1,15 @@
+# coding=utf-8
+INTERFACE = 'enp8s0'
+TEST_HOST = 'domain'
+RR = ['hello', 'test']
+
+#################
+#Aliyun
+#################
+ACCSEE_ID = 'ACCSEE_ID'
+ACCESS_KEY = 'ACCESS_KEY'
+
+TYPE_ = {
+    'IPV4': 'A',
+    'IPV6': 'AAAA'
+}
